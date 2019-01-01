@@ -15,6 +15,7 @@
   "homepage": "https://github.com/stevexyzw/HelloGraphQLYoga#readme",
   "dependencies": {
     "graphql-yoga": "1.6.1",
-    "node-fetch": "2.1.2"
+    "node-fetch": "2.1.2",
+    "nodemon": "^1.18.9"
   }
 }
